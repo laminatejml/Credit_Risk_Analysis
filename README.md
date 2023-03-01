@@ -18,4 +18,18 @@ The ClusterCentroids model came back with a balanced accuracy score of 66 percen
 
 The SMOTEENN model yielded a balanced accuracy of 54 percent. High risk loans had a precision of 1 percent and a recall of 73 percent, while low risk loans had shown a precision of 99 percent and a recall of 57 percent.
 
+<img width="417" alt="SMOTEENN" src="https://user-images.githubusercontent.com/111616227/222092900-5dd374d9-ccbf-4cef-b409-35e3f1aebcbf.png">
+
+BalancedRandomForestClassifier came back with a balanced accuracy of 80 percent. High risk loans came back with 4 percent precision and 72 percent recall, while low risk loans had a 99 percent precision and 89 percent recall. 
+
+<img width="625" alt="BalancedRandomForestClassifier" src="https://user-images.githubusercontent.com/111616227/222094454-bc20cb96-2ce6-46ae-86c1-7467ec04b45a.png">
+
+Lastly, the EasyEnsembleClassifier came back with a balanced accuracy of 92 percent. High risk loans yielded 9 percent precision and a recall of 89 percent. Low risk loans came out to 99 percent precision and 94 percent recall.
+
+<img width="379" alt="EasyEnsembleClassifier" src="https://user-images.githubusercontent.com/111616227/222108925-6534c8e4-bbc1-47d4-99c6-0d540dc4b001.png">
+
+
+### Summary
+
+
 
