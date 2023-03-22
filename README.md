@@ -29,7 +29,5 @@ Lastly, the EasyEnsembleClassifier came back with a balanced accuracy of 92 perc
 <img width="379" alt="EasyEnsembleClassifier" src="https://user-images.githubusercontent.com/111616227/222108925-6534c8e4-bbc1-47d4-99c6-0d540dc4b001.png">
 
 
-### Summary
-
 
 
